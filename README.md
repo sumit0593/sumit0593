@@ -13,6 +13,14 @@ I specialize in building intelligent applications using **Python** and **Generat
 
 ---
 
+### 🤖 AI Engineering Focus
+- System Prompts (XML / JSON / Role-Based)
+- LLM Integration (Gemini, LangChain)
+- Structured Output Validation (Pydantic)
+- Prompt Evaluation (Coherence, Accuracy)
+- Human-in-the-Loop (HITL) Pipelines
+
+
 <!-- GitHub Overall Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true)
 
