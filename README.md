@@ -13,6 +13,19 @@ I specialize in building intelligent applications using **Python** and **Generat
 
 ---
 
+<!-- GitHub Overall Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- Top Languages (AI-centric) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true)
+
+<!-- AI / GenAI Activity Badge -->
+![AI Engineer](https://img.shields.io/badge/Focus-Generative%20AI%20%7C%20LLMs%20%7C%20Prompt%20Engineering-blueviolet?style=flat)
+
+
 ### 🔭 Current Projects
 
 #### 🤖 **Study Buddy AI**
