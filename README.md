@@ -33,8 +33,6 @@ I specialize in building intelligent applications using **Python** and **Generat
 <!-- AI Engineer Focus Badge -->
 ![AI Engineer](https://img.shields.io/badge/Focus-Generative%20AI%20%7C%20LLMs%20%7C%20Prompt%20Engineering-blueviolet?style=flat)
 
-
-
 ### 🔭 Current Projects
 
 #### 🤖 **Study Buddy AI**
