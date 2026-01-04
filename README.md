@@ -1,4 +1,4 @@
-# Hi there, I'm an AI Engineer! 👋
+# Hi there, I'm an AI Powered full stack developer! 👋
 
 I specialize in building intelligent applications using **Python** and **Generative AI**. My current focus is on mastering **System Prompts**, structured data extraction, and LLM integration.
 
