@@ -20,6 +20,7 @@ I specialize in building intelligent applications using **Python** and **Generat
 - Prompt Evaluation (Coherence, Accuracy)
 - Human-in-the-Loop (HITL) Workflows
 
+---
 
 ### 🔭 Current Projects
 
