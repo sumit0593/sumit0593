@@ -43,4 +43,4 @@ Experimenting with AI video tools to create dynamic visuals.
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit0593&show_icons=true&theme=tokyonight)
