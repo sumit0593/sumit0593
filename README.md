@@ -21,18 +21,6 @@ I specialize in building intelligent applications using **Python** and **Generat
 - Human-in-the-Loop (HITL) Workflows
 
 
-<!-- GitHub Overall Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit0593&show_icons=true&theme=tokyonight&hide_border=true)
-
-<!-- Top Languages (AI / Python focused) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit0593&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=sumit0593&theme=tokyonight&hide_border=true)
-
-<!-- AI Engineer Focus Badge -->
-![AI Engineer](https://img.shields.io/badge/Focus-Generative%20AI%20%7C%20LLMs%20%7C%20Prompt%20Engineering-blueviolet?style=flat)
-
 ### 🔭 Current Projects
 
 #### 🤖 **Study Buddy AI**
