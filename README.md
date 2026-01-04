@@ -44,10 +44,10 @@ Experimenting with AI video tools to create dynamic visuals.
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit0593&show_icons=true&theme=tokyonight&hide_border=true)
+* ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit0593&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit0593&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+* ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit0593&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sumit0593&theme=tokyonight&hide_border=true)
+* ![GitHub Streak](https://streak-stats.demolab.com?user=sumit0593&theme=tokyonight&hide_border=true)
 
 
