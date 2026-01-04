@@ -42,8 +42,7 @@ Experimenting with AI video tools to create dynamic visuals.
 
 ---
 
-### 📈 GitHub Stats
-## 📈 GitHub Stats & AI Engineering Focus
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit0593&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -51,5 +50,4 @@ Experimenting with AI video tools to create dynamic visuals.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sumit0593&theme=tokyonight&hide_border=true)
 
-![AI Engineer](https://img.shields.io/badge/Focus-Generative%20AI%20%7C%20LLMs%20%7C%20Prompt%20Engineering-blueviolet?style=flat)
 
