@@ -1,6 +1,6 @@
-# Hi there, I'm an AI Powered full stack developer! 👋
+# Hi there, I'm GenAI & Multi-Agent Engineer | Full Stack Web Developer! 👋
 
-I specialize in building intelligent applications using **Python** and **Generative AI**. My current focus is on mastering **System Prompts**, structured data extraction, and LLM integration.
+I specialize in building intelligent applications using **Python** ,**Generative AI** And **MERN Stack**.
 
 ---
 
